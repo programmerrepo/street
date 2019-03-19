@@ -1,0 +1,93 @@
+export let TRIPS = [
+  {
+    id: 1,
+    name: "Olyampic Playground",
+    price_adult: 60,
+    price_child: 30,
+    time: "2h",
+    free_cancellation: 1,
+    electric_voucher: 1,
+    sub_name: "Sub name put here",
+    thumb: "assets/img/trip/thumb/trip_1.jpg",
+    description: "play area is a place specifically designed to enable children to play there. It is typically outdoors. While a playground is usually designed for children, some target other age groups. ... Common in modern playgrounds are play structures that link many different pieces of equipment.",
+    location: "Alexandria, Egypt",
+    images: [
+      "assets/img/trip/thumb/trip_1.jpg",
+      "assets/img/trip/thumb/trip_8.jpg",
+      "assets/img/trip/thumb/trip_1.jpg",
+      "assets/img/trip/thumb/trip_8.jpg",
+    ],
+    highlights: [
+      "Numerous kiosks",
+      "First in a string of Atlantic Ocean-facing beaches",
+      "Sand is flanked by mountains in the background",
+      "Swing in the turquoise waters",
+      "Water Sports",
+    ]
+  },
+  {
+    id: 2,
+    name: "San siro playground",
+    price_adult: 90,
+    price_child: 45,
+    time: "4h",
+    free_cancellation: 1,
+    electric_voucher: 1,
+    sub_name: "Sub name put here",
+    thumb: "assets/img/trip/thumb/trip_2.jpg",
+    description: "play area is a place specifically designed to enable children to play there. It is typically outdoors. While a playground is usually designed for children, some target other age groups. ... Common in modern playgrounds are play structures that link many different pieces of equipment.",
+    location: "Alexandria, Egypt",
+    images: [
+                 "assets/img/trip/thumb/trip_2.jpg",
+            ],
+    highlights: [
+      "Numerous kiosks",
+      "First in a string of Atlantic Ocean-facing beaches",
+      "Sand is flanked by mountains in the background",
+      "Swing in the turquoise waters",
+      "Water Sports",
+    ]
+  },
+  {
+    id: 3,
+    name: "Camp Non Playground",
+    price_adult: 120,
+    price_child: 30,
+    time: "6h",
+    free_cancellation: 1,
+    electric_voucher: 1,
+    sub_name: "Sub name put here",
+    thumb: "assets/img/trip/thumb/trip_3.jpg",
+    description: "play area is a place specifically designed to enable children to play there. It is typically outdoors. While a playground is usually designed for children, some target other age groups. ... Common in modern playgrounds are play structures that link many different pieces of equipment.",
+    location: "Alexandria, Egypt",
+    images: [ "assets/img/trip/thumb/trip_3.jpg", ],
+    highlights: [
+            "Numerous kiosks",
+      "First in a string of Atlantic Ocean-facing beaches",
+      "Sand is flanked by mountains in the background",
+      "Swing in the turquoise waters",
+      "Water Sports",
+    ]
+  },
+  {
+    id: 4,
+    name: "AL-athad studio",
+    price_adult: 50,
+    price_child: 20,
+    time: "2h",
+    free_cancellation: 1,
+    electric_voucher: 1,
+    sub_name: "Sub name put here",
+    thumb: "assets/img/trip/thumb/trip_4.jpg",
+    description: "play area is a place specifically designed to enable children to play there. It is typically outdoors. While a playground is usually designed for children, some target other age groups. ... Common in modern playgrounds are play structures that link many different pieces of equipment.",
+    location: "Alexandria, Egypt",
+    images: [ "assets/img/trip/thumb/trip_4.jpg", ],
+    highlights: [
+            "Numerous kiosks",
+      "First in a string of Atlantic Ocean-facing beaches",
+      "Sand is flanked by mountains in the background",
+      "Swing in the turquoise waters",
+      "Water Sports",
+    ]
+  }
+]
